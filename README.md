@@ -1,5 +1,7 @@
 # Mission Control
 
+> Part of a larger agent platform. ▶ [Watch the 90-second overview](https://github.com/man-pi)
+
 One window that shows several apps side by side, sized for a 32:9 ultrawide, with a built-in map of which app moves data to which. It is only a viewer: it never starts, stops or changes the apps.
 
 > **Source code is private.** This repository shows what Mission Control does and how it is built. The code is available on request.
